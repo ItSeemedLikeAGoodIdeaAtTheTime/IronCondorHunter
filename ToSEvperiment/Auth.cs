@@ -12,8 +12,11 @@ namespace ToSEvperiment
 
         private static (string, string, string) ConstructInitAuthUrl()
         {
-            string appKey = "Your-App-Key";
-            string appSecret = "Your-App-Secret";
+            
+            
+
+            string appKey = "IZ6ACfdxwZGTGgtzHJBZqGqT5kffTaCe";
+            string appSecret = "1eymNNklztWA3wDH";
 
             string authUrl = $"https://api.schwabapi.com/v1/oauth/authorize?client_id={appKey}&redirect_uri=https:[Your-redirect-url";
 
