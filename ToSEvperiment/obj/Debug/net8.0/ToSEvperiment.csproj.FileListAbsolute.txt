@@ -17,3 +17,6 @@ C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvpe
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.sourcelink.json
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvper.D4450036.Up2Date
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Auth.cs
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Refresh.cs
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\.env
