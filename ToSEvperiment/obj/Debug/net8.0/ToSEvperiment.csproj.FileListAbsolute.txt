@@ -12,3 +12,7 @@ C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\refint\
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.pdb
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.genruntimeconfig.cache
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ref\ToSEvperiment.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.csproj.AssemblyReference.cache
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.sourcelink.json
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvper.D4450036.Up2Date
