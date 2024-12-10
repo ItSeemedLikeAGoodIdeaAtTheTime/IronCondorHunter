@@ -16,8 +16,8 @@ namespace ToSEvperiment
         {
             //        Logger.Info("Initializing...");
 
-            string appKey = "Your-App-Key";
-            string appSecret = "Your-App-Secret";
+            string appKey = Environment.GetEnvironmentVariable("APP_KEY");
+            string appSecret = Environment.GetEnvironmentVariable("APP_SECRET");
 
             // You can pull this from a local file,
             // Google Cloud Firestore/Secret Manager, etc.

@@ -15,8 +15,8 @@ namespace ToSEvperiment
             
             
 
-            string appKey = "IZ6ACfdxwZGTGgtzHJBZqGqT5kffTaCe";
-            string appSecret = "1eymNNklztWA3wDH";
+            string appKey = Environment.GetEnvironmentVariable("APP_KEY");
+            string appSecret = Environment.GetEnvironmentVariable("APP_SECRET");
 
             string authUrl = $"https://api.schwabapi.com/v1/oauth/authorize?client_id={appKey}&redirect_uri=https:[Your-redirect-url";
 
