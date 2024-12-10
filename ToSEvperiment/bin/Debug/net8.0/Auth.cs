@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 using System.Text;
-
+using dotenv;
 
 namespace ToSEvperiment
 {
@@ -12,9 +12,9 @@ namespace ToSEvperiment
 
         public static (string, string, string) ConstructInitAuthUrl()
         {
-            
-            
 
+
+            DotNetEnv.Env.Load(); // Loads variables from .env file
             string appKey = Environment.GetEnvironmentVariable("APP_KEY");
             string appSecret = Environment.GetEnvironmentVariable("APP_SECRET");
 

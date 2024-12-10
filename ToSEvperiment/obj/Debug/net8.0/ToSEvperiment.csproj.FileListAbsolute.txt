@@ -20,3 +20,8 @@ C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\dotenv.
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Auth.cs
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Refresh.cs
 C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\.env
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\Sprache.dll

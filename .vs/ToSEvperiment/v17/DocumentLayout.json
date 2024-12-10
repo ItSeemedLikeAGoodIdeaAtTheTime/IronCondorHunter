@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\clynn\\source\\repos\\ToSEvperiment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|c:\\users\\clynn\\source\\repos\\tosevperiment\\tosevperiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|solutionrelative:tosevperiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|c:\\users\\clynn\\source\\repos\\tosevperiment\\tosevperiment\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|solutionrelative:tosevperiment\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|c:\\users\\clynn\\source\\repos\\tosevperiment\\tosevperiment\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|solutionrelative:tosevperiment\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|c:\\users\\clynn\\source\\repos\\tosevperiment\\tosevperiment\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|solutionrelative:tosevperiment\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|c:\\users\\clynn\\source\\repos\\tosevperiment\\tosevperiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|solutionrelative:tosevperiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|c:\\users\\clynn\\source\\repos\\tosevperiment\\tosevperiment\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|solutionrelative:tosevperiment\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|c:\\users\\clynn\\source\\repos\\tosevperiment\\tosevperiment\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE4BC79-DC87-4D40-B2D0-ACB1803A0047}|ToSEvperiment\\ToSEvperiment.csproj|solutionrelative:tosevperiment\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -36,27 +36,27 @@
               "RelativeDocumentMoniker": "ToSEvperiment\\.env",
               "ToolTip": "C:\\Users\\clynn\\source\\repos\\ToSEvperiment\\ToSEvperiment\\.env",
               "RelativeToolTip": "ToSEvperiment\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-10T02:39:39.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Auth.cs",
               "DocumentMoniker": "C:\\Users\\clynn\\source\\repos\\ToSEvperiment\\ToSEvperiment\\Auth.cs",
               "RelativeDocumentMoniker": "ToSEvperiment\\Auth.cs",
               "ToolTip": "C:\\Users\\clynn\\source\\repos\\ToSEvperiment\\ToSEvperiment\\Auth.cs",
               "RelativeToolTip": "ToSEvperiment\\Auth.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwv14AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T02:06:35.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Refresh.cs",
               "DocumentMoniker": "C:\\Users\\clynn\\source\\repos\\ToSEvperiment\\ToSEvperiment\\Refresh.cs",
               "RelativeDocumentMoniker": "ToSEvperiment\\Refresh.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\clynn\\source\\repos\\ToSEvperiment\\ToSEvperiment\\Program.cs",
               "RelativeDocumentMoniker": "ToSEvperiment\\Program.cs",
