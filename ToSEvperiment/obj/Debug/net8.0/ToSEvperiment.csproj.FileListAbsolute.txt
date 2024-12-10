@@ -1,0 +1,14 @@
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\ToSEvperiment.exe
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\ToSEvperiment.deps.json
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\ToSEvperiment.runtimeconfig.json
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\ToSEvperiment.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\bin\Debug\net8.0\ToSEvperiment.pdb
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.AssemblyInfoInputs.cache
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.AssemblyInfo.cs
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.csproj.CoreCompileInputs.cache
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\refint\ToSEvperiment.dll
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.pdb
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ToSEvperiment.genruntimeconfig.cache
+C:\Users\clynn\source\repos\ToSEvperiment\ToSEvperiment\obj\Debug\net8.0\ref\ToSEvperiment.dll
